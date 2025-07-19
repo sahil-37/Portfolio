@@ -13,7 +13,7 @@ Welcome to my Data Science & AI portfolio! I specialize in **machine learning**,
 - Achieved >90% precision in named entity extraction (e.g., expression systems, tags).
 - Built modular pipelines with schema validation and retry logic.
 
-👉 [Code](link-to-repo) • [Notebook](link) • [Report](link)
+👉 [Code](https://github.com/sahil-37/grobid-chunker) •
 
 ---
 
