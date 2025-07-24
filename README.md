@@ -1,10 +1,10 @@
-# 🧠 Sahil Sood – Data Scientist Portfolio
+# Sahil Sood – Data Scientist Portfolio
 
 Welcome to my Data Science & AI portfolio! I specialize in **machine learning**, **LLMs/NLP**, and **data analytics**, with industry experience in **biotech, telecom, and tech platforms**. This repository showcases selected projects that demonstrate my ability to turn data into actionable insights and scalable systems.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔬 Biomedical Research PDF-to-JSON Converter  
 **Tech:** Python, GROBID, Docling, LLMSherpa, LangChain, Instructor, Pydantic, Groq API, FastAPI  
@@ -13,18 +13,18 @@ Welcome to my Data Science & AI portfolio! I specialize in **machine learning**,
 - Converted biomedical research PDFs into structured JSON using a hybrid extraction pipeline combining **GROBID** (TEI XML), **LLMSherpa** (section segmentation), and **Docling** (fallback logic).
 - Isolated key sections (e.g., *Methods*, *Results*, *Discussions* and *Tables* with captions and footnotes) via heuristic matching, regex-enhanced parsing and semantic matching for robust segmentation of sections
   
-👉 [Code](https://github.com/sahil-37/grobid-chunker)
+[Code](https://github.com/sahil-37/grobid-chunker)
 
 ---
 
-### 🚗 Uber Driver Allocation Optimization
+### Uber Driver Allocation Optimization
 **Tech:** Python, Scikit-learn, XGBoost, SHAP, Matplotlib  
 **Highlights:**
 - Built tree-based models to improve offer acceptance rates in a 2-sided platform.
 - Reduced false positive rate (FPR) by 7% through pruning and ensemble tuning.
 - Evaluated using PR AUC, precision/recall, confusion matrices.
 
-👉 [Code](https://github.com/sahil-37/Driver-Allocation)
+[Code](https://github.com/sahil-37/Driver-Allocation)
 
 ---
 
@@ -43,14 +43,12 @@ Welcome to my Data Science & AI portfolio! I specialize in **machine learning**,
 
 ---
 
-## 🧩 About Me
+## About Me
 
 I’m a Data Scientist with 6+ years of experience across startups and enterprises. My work blends experimental design, LLMs, and production-grade pipelines to build data-first products. I’m currently working at **PredictaBio Innovations**, where I build AI systems to accelerate biotech R&D.
-
-📫 **Connect with me**  
+ 
+**Connect with me**  
 [LinkedIn](https://linkedin.com/in/sahil-sood-nu) | [GitHub](https://github.com/sahil-37) | sahil.sood@myyahoo.com
 
 ---
-
-> ⚡ *Let’s collaborate on open-source, AI for science, or advanced analytics projects!*
 
