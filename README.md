@@ -6,14 +6,14 @@ Welcome to my Data Science & AI portfolio! I specialize in **machine learning**,
 
 ## 📌 Featured Projects
 
-### 🔬 LLM-Powered Biomedical Protocol Extraction
-**Tech:** Python, Instructor, LangChain, Pydantic, Groq API, FastAPI  
-**Highlights:**
-- Extracted structured protocols from unstructured biomedical PDFs using LLMs.
-- Achieved >90% precision in named entity extraction (e.g., expression systems, tags).
-- Built modular pipelines with schema validation and retry logic.
+### 🔬 Biomedical Research PDF-to-JSON Converter  
+**Tech:** Python, GROBID, Docling, LLMSherpa, LangChain, Instructor, Pydantic, Groq API, FastAPI  
 
-👉 [Code](https://github.com/sahil-37/grobid-chunker) •
+**Highlights:**
+- Converted biomedical research PDFs into structured JSON using a hybrid extraction pipeline combining **GROBID** (TEI XML), **LLMSherpa** (section segmentation), and **Docling** (fallback logic).
+- Isolated key sections (e.g., *Methods*, *Results*, *Discussions* and *Tables* with captions and footnotes) via heuristic matching, regex-enhanced parsing and semantic matching for robust segmentation of sections
+  
+👉 [Code](https://github.com/sahil-37/grobid-chunker)
 
 ---
 
@@ -24,31 +24,10 @@ Welcome to my Data Science & AI portfolio! I specialize in **machine learning**,
 - Reduced false positive rate (FPR) by 7% through pruning and ensemble tuning.
 - Evaluated using PR AUC, precision/recall, confusion matrices.
 
-👉 [Code](link-to-repo) • [EDA](link) • [Model Evaluation](link)
+👉 [Code](https://github.com/sahil-37/Driver-Allocation)
 
 ---
 
-### 🧬 Protocol Topic Modeling & Retrieval
-**Tech:** NMF, TF-IDF, Discriminant Term Analysis, Python  
-**Highlights:**
-- Identified latent themes in biological protocols using NMF.
-- Refined retrieval results by re-ranking with discriminant keywords.
-- Cut document volume by 25% without loss in content relevance.
-
-👉 [Notebook](link) • [Results](link)
-
----
-
-### 📈 Customer Segmentation & Product Bundling
-**Tech:** R, Association Rules, Cohort Analysis, Looker  
-**Highlights:**
-- Boosted AOV by 9% via bundle optimization; forecasted +$250K revenue.
-- Identified key segments using RFM and cohort retention curves.
-- Automated insight delivery through Looker dashboards.
-
-👉 [Code](link) • [Dashboard](link)
-
----
 
 ## 📊 Skills Summary
 
